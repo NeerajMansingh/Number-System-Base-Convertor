@@ -1,6 +1,4 @@
 # Number-System-Base-Convertor
-This is my ICS minor project written entirely in C .
-
 
 C program for number system base convertor
 
